@@ -1,0 +1,12 @@
+{
+  "name": "blockchainJr",
+  "version": "1.0.0",
+  "description": "example blockchain in js",
+  "main": "index.js",
+  "repository": "https://github.com/etzJohn/blockchainJr.git",
+  "author": "John Holman <holman.jx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
